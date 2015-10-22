@@ -1,0 +1,53 @@
+{
+  "name": "fileutils",
+  "version": "0.1.0",
+  "description": "Some utilities that diminish the suck of working with the file system in node",
+  "keywords": [
+    "files",
+    "directories",
+    "fileutil"
+  ],
+  "homepage": "http://github.com/lukebayes/node-fileutils",
+  "author": {
+    "name": "Luke Bayes",
+    "email": "lukebayes@gmail.com",
+    "url": "http://lukebayes.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukebayes/node-fileutils.git"
+  },
+  "main": "src/fileutils.js",
+  "test": "runner.js",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "_npmUser": {
+    "name": "lukebayes",
+    "email": "lukebayes@gmail.com"
+  },
+  "_id": "fileutils@0.1.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.21",
+  "_nodeVersion": "v0.6.18",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "9ca655ab677e87d6375b1e56d9e510e0314f87b4",
+    "tarball": "http://registry.npmjs.org/fileutils/-/fileutils-0.1.0.tgz"
+  },
+  "scripts": {},
+  "readme": "",
+  "maintainers": [
+    {
+      "name": "lukebayes",
+      "email": "lbayes@patternpark.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "9ca655ab677e87d6375b1e56d9e510e0314f87b4",
+  "_from": "fileutils@",
+  "_resolved": "https://registry.npmjs.org/fileutils/-/fileutils-0.1.0.tgz"
+}
